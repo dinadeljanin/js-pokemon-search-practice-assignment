@@ -36,10 +36,11 @@ search.
 
 ### Deliverables:
 
-1.  Implement a filter functionality for your Pokemon list.
-1.  Implement a flip functionality on each Pokemon.
-1.  Your search should include pokemon whose names are **not** exact matches
-1.  AS A BONUS, add a way to show users details for a particular pokemon: moves, abilities, etc.
+1. Implement a filter functionality for your Pokemon list.
+- [x] Implement a flip functionality on each Pokemon.
+(Read: when u click spriteyboi, the image toggles)
+1. Your search should include pokemon whose names are **not** exact matches
+1. AS A BONUS, add a way to show users details for a particular pokemon: moves, abilities, etc.
 
 ---
 
